@@ -81,5 +81,6 @@ By analyzing the simulation's output, an AI can develop a deeper understanding o
 ```
 
 ## License
-MIT
+Copyright (c) kadubon
+Licensed under the MIT License.  
 https://mit-license.org/
