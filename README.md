@@ -1,4 +1,5 @@
 # A Computational, Observer-Centric Universe Model
+DOI 10.5281/zenodo.16923852
 
 This project is a Python-based simulation of a conceptual model of the universe based on a set of core axioms. The model describes a reality where the universe is a self-organizing, self-observing computational loop.
 
